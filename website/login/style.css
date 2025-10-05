@@ -1,0 +1,28 @@
+input{
+border:1px sliod #FFFF00;
+padding:5px;
+border-radius:5px;
+background-color:yellow;
+}
+a{
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: yellow;
+    border:1px solid #FFFF00;
+    padding:5px;
+    }
+    button{
+        border-radius: 5px;
+        background-color: yellow;
+        border:1px solid #FFFF00;
+        padding:5px;
+        }
+        footer{
+display:flex;
+height:60px;
+justify-content:center;
+align-items:center;
+font-size:14px;
+color:white;
+background-color:black;
+}
